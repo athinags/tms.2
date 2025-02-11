@@ -1,1 +1,3 @@
-# tms.2
+Como utilizar esse repositório:
+.
+.
